@@ -1,0 +1,79 @@
+<!-- <html>
+    <head>
+       <title> My First Page </title>
+    </head>
+    <body>
+      <h1> Hello </h1>
+      <h2> Welcome to Internet Technologies Lab </h2>
+    </body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html>
+<body>
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.beginPath();
+ctx.arc(95,50,40,0,2*Math.PI);
+ctx.stroke();
+</script>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Login page</title>
+
+    <style>
+    body
+    {
+      background-color: lightblue;
+    }
+
+    h1
+    {
+      color: white;
+      text-align: center;
+    }
+
+    /* p 
+    {
+      font-family: verdana;
+      font-size: 20px;
+    } */
+    </style>
+
+    <script language="javascript">
+      function check(form) /*function to check userid and password*/
+      {
+        /* the following code check whether the entered userid and password are matching*/
+
+        if(form.userid.value=="myuserid" && form.pswrd.value=="mypswrd")
+        {
+          window.open("https://www.google.com","_blank");
+          /*opens the target page while id and password matches*/
+        }
+        else
+        {
+          alert("Error Password or Username") /*displays error message*/
+        }
+      }
+    </script>
+  </head>
+
+  <body>
+    <h1> Validate credentials </h1>
+    <form name="login">
+      Username<input type="text" name="userid"/>
+      Password<input type="text" name="pswrd"/>
+      <input type="button" onclick="check(this.form)" value="Login"/>
+      <input type="reset" value="Cancel"/>
+    </form>
+  </body>
+</html>
+
+    

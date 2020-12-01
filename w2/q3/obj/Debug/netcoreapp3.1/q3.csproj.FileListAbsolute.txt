@@ -1,0 +1,12 @@
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\bin\Debug\netcoreapp3.1\q3.exe
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\bin\Debug\netcoreapp3.1\q3.deps.json
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\bin\Debug\netcoreapp3.1\q3.runtimeconfig.json
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\bin\Debug\netcoreapp3.1\q3.runtimeconfig.dev.json
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\bin\Debug\netcoreapp3.1\q3.dll
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\bin\Debug\netcoreapp3.1\q3.pdb
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\obj\Debug\netcoreapp3.1\q3.AssemblyInfoInputs.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\obj\Debug\netcoreapp3.1\q3.AssemblyInfo.cs
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\obj\Debug\netcoreapp3.1\q3.csproj.CoreCompileInputs.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\obj\Debug\netcoreapp3.1\q3.dll
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\obj\Debug\netcoreapp3.1\q3.pdb
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\q3\obj\Debug\netcoreapp3.1\q3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\bin\Debug\netcoreapp3.1\Add_Num.exe
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\bin\Debug\netcoreapp3.1\Add_Num.deps.json
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\bin\Debug\netcoreapp3.1\Add_Num.runtimeconfig.json
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\bin\Debug\netcoreapp3.1\Add_Num.runtimeconfig.dev.json
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\bin\Debug\netcoreapp3.1\Add_Num.dll
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\bin\Debug\netcoreapp3.1\Add_Num.pdb
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\obj\Debug\netcoreapp3.1\Add_Num.csprojAssemblyReference.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\obj\Debug\netcoreapp3.1\Add_Num.AssemblyInfoInputs.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\obj\Debug\netcoreapp3.1\Add_Num.AssemblyInfo.cs
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\obj\Debug\netcoreapp3.1\Add_Num.csproj.CoreCompileInputs.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\obj\Debug\netcoreapp3.1\Add_Num.dll
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\obj\Debug\netcoreapp3.1\Add_Num.pdb
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample1\Add_Num\obj\Debug\netcoreapp3.1\Add_Num.genruntimeconfig.cache

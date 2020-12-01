@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TimePage</title>
+
+        <style>
+        body
+        {
+            background-color: lightgreen;
+        }
+
+        h1
+        {
+            color: white;
+            text-align: center;
+        }
+
+        /* div that shows the time */
+        #theDynamicTime 
+        {
+            text-align: center;
+            font-size: 200px;
+        }
+
+        #wishMe
+        {
+            text-align: center;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+        }
+
+        </style>
+
+        <script language="javascript">
+
+            function startTime() 
+            {
+                var today = new Date();
+                var h = today.getHours();
+                var m = today.getMinutes();
+                var s = today.getSeconds();
+                m = checkTime(m);
+                s = checkTime(s);
+                document.getElementById('theDynamicTime').innerHTML = h + ":" + m + ":" + s;
+                var t = setTimeout(startTime, 500);
+            }
+
+            function checkTime(i) 
+            {
+                if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+                return i;
+            }
+
+            function wishMeAlert()
+            {
+                var today = new Date();
+                var h = today.getHours();
+
+                if(0>=h && h<=12)
+                    alert("Good morning!");
+                else if(h>12 && h<=18)
+                    alert("Good afternoon!");
+                else
+                    alert("Good evening!");
+
+            }
+
+
+        </script>
+    </head>
+
+    <body onload="startTime()">
+        <h1>The time is:</h1>
+        <div id = "theDynamicTime"></div>
+        <button id = "wishMe" onclick="wishMeAlert()"> Click to get wished.</button>
+    </body>
+</html>
+
+    

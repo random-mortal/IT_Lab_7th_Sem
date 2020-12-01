@@ -1,0 +1,13 @@
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\bin\Debug\netcoreapp3.1\sample.exe
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\bin\Debug\netcoreapp3.1\sample.deps.json
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\bin\Debug\netcoreapp3.1\sample.runtimeconfig.json
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\bin\Debug\netcoreapp3.1\sample.runtimeconfig.dev.json
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\bin\Debug\netcoreapp3.1\sample.dll
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\bin\Debug\netcoreapp3.1\sample.pdb
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\obj\Debug\netcoreapp3.1\sample.csprojAssemblyReference.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfoInputs.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfo.cs
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\obj\Debug\netcoreapp3.1\sample.csproj.CoreCompileInputs.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\obj\Debug\netcoreapp3.1\sample.dll
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\obj\Debug\netcoreapp3.1\sample.pdb
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w3\sample\obj\Debug\netcoreapp3.1\sample.genruntimeconfig.cache

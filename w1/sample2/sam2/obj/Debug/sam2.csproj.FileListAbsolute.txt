@@ -1,0 +1,10 @@
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\bin\Debug\sam2.exe.config
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\bin\Debug\sam2.exe
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\bin\Debug\sam2.pdb
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\obj\Debug\sam2.csprojAssemblyReference.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\obj\Debug\sam2.Form1.resources
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\obj\Debug\sam2.Properties.Resources.resources
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\obj\Debug\sam2.csproj.GenerateResource.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\obj\Debug\sam2.csproj.CoreCompileInputs.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\obj\Debug\sam2.exe
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\sample2\sam2\obj\Debug\sam2.pdb

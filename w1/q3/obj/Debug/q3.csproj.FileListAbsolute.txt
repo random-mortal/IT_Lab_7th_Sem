@@ -1,0 +1,10 @@
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\bin\Debug\q3.exe.config
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\bin\Debug\q3.exe
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\bin\Debug\q3.pdb
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\obj\Debug\q3.csprojAssemblyReference.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\obj\Debug\q3.Form1.resources
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\obj\Debug\q3.Properties.Resources.resources
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\obj\Debug\q3.csproj.GenerateResource.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\obj\Debug\q3.csproj.CoreCompileInputs.cache
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\obj\Debug\q3.exe
+C:\Users\prana\Documents\GitHub\7thSemIT_Lab\w2\q3\obj\Debug\q3.pdb
