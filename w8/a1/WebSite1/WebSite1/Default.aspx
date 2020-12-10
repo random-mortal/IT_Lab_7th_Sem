@@ -46,7 +46,7 @@
                     <asp:CommandField ShowEditButton="true"/>
                 </Columns>
             </asp:GridView>
-            <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Test;Integrated Security=SSPI" SelectCommand="SELECT * FROM Product" UpdateCommand="UPDATE Product SET quantity=@quantity,name=@name WHERE id=@id"></asp:SqlDataSource>
+            <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=sure;Integrated Security=SSPI" SelectCommand="SELECT * FROM Product" UpdateCommand="UPDATE Product SET quantity=@quantity,name=@name WHERE id=@id"></asp:SqlDataSource>
         </div>
     </form>
 </body>

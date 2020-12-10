@@ -17,17 +17,17 @@
                     <asp:TemplateField HeaderText="Name">
                         <ItemTemplate>
                             <b>First Name:</b>
-                            <%# Eval("first_name") %>
+                            <%# Eval("Firstname") %>
                             <br />
                             <b>Last Name:</b>
-                            <%# Eval("last_name") %>
+                            <%# Eval("Lastname") %>
                         </ItemTemplate>
                         <EditItemTemplate>
                             <b>First Name:</b>
-                            <asp:TextBox runat="server" ID="TextBox1" Text='<%# Bind("first_name") %>'></asp:TextBox>
+                            <asp:TextBox runat="server" ID="TextBox1" Text='<%# Bind("Firstname") %>'></asp:TextBox>
                             <br />
                             <b>Last Name:</b>
-                            <%# Eval("last_name") %>
+                            <%# Eval("Lastname") %>
                         </EditItemTemplate>
                     </asp:TemplateField>
                     <asp:BoundField DataField="book_title" HeaderText="Book Title" ReadOnly="true"/>
@@ -36,7 +36,7 @@
                 </Columns>
             </asp:GridView>
         </div>
-        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Test;Integrated Security=SSPI" SelectCommand="SELECT * FROM Authors" UpdateCommand="UPDATE Authors SET copies_sold=@copies_sold,first_name=@first_name WHERE id=@id">
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=sure;Integrated Security=SSPI" SelectCommand="SELECT * FROM Authors" UpdateCommand="UPDATE Authors SET copies_sold=@copies_sold,Firstname=@Firstname WHERE id=@id">
 
         </asp:SqlDataSource>
     </form>

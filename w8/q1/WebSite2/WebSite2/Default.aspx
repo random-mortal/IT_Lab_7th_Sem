@@ -25,7 +25,7 @@
                 </Columns>
             </asp:GridView>
         </div>
-        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Test;Integrated Security=SSPI" SelectCommand="SELECT name,age,designation,salary FROM Staff"></asp:SqlDataSource>
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=sure;Integrated Security=SSPI" SelectCommand="SELECT name,age,designation,salary FROM Staff"></asp:SqlDataSource>
     </form>
 </body>
 </html>
