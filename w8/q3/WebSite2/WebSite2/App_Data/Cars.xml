@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Cars>
+  <Detail>
+    <Name>I20</Name>
+    <Make>Hyundai</Make>
+    <Price>700000</Price>
+  </Detail>
+  <Detail>
+    <Name>I10</Name>
+    <Make>Hyundai</Make>
+    <Price>600000</Price>
+  </Detail>
+</Cars>
